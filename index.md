@@ -1,91 +1,71 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juan Antonio Montero de Espinosa's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juan Antonio Montero de Espinosa Reina
+Econometrician, Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="jmonteroers@gmail.com">jmonteroers@gmail.com</a>
+  |
+  <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working remotely as Main Data Scientist for Px HealthCare
 
-### Specialized in
+### Specialised in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Statistical modelling, software development, team work
 
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`December 2020 - Present`
+__Data Scientist__, Px Healthcare Group Ltd, London
+
+- Developed and maintained backend features, such as personalised user reports
+- GDPR-compliant pipeline to provide analytics data
+- Automated reports on web and app statistics
+
+`September 2019`
+__Intern__, Bank of Spain, Spain
+
+- Revision of methodology to estimate margins and mark-ups for the competitiveness section of the Annual Report on the Spanish Economy.
+
+`July 2017 - August 2017`
+__Research Assistant__, University Carlos III of Madrid, Spain
+Prepared data for the project ’Can Public Spending Stimulate the Local Market?’ led by Jan Stuhler and Ines Helm
+
+`2016-2017`
+__Mathematics, Econometrics Tutor__, Self-employed, Madrid
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2019`
+__MPhil in Economics, University of Oxford, UK__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015 - 2017`
+__Degree in Mathematics (54 ECTS), Spanish Distance Learning University, Spain__
 
-- Sizar
+- Focus on Calculus, Linear Algebra and Probability
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2011-2016`
+__Degree in Economics, University Carlos III of Madrid (UC3M), Spain__
 
-- Fellow
-
+- Minor in Computer Science (36 ECTS)
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2017-2019`
+Bank of Spain Scholarship
 
-Associate, *French Academy of Science*, Paris, France
+`2011`
+Community of Madrid Excellence Scholarship
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2010`
+Third Place, District Round, International Mathematical Olympiad (independent preparation)
