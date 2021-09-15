@@ -6,9 +6,9 @@ title: Juan Antonio Montero de Espinosa's CV
 Econometrician, Data Scientist
 
 <div id="webaddress">
-  <a href="jmonteroers@gmail.com">jmonteroers@gmail.com</a>
+  <a href="mailto: jmonteroers@gmail.com">jmonteroers@gmail.com</a>
   |
-  <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn Page</a>
 </div>
 
 
