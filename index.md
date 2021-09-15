@@ -23,19 +23,19 @@ Statistical modelling, software development, team work
 
 ## Experience
 
-`December 2020 - Present`
+`12/2020 - Present`
 __Data Scientist__, Px Healthcare Group Ltd, London
 
 - Developed and maintained backend features, such as personalised user reports
 - GDPR-compliant pipeline to provide analytics data
 - Automated reports on web and app statistics
 
-`September 2019`
+`9/2019`
 __Intern__, Bank of Spain, Spain
 
 - Revision of methodology to estimate margins and mark-ups for the competitiveness section of the Annual Report on the Spanish Economy.
 
-`July 2017 - August 2017`
+`7/2017 - 8/2017`
 __Research Assistant__, University Carlos III of Madrid, Spain
 Prepared data for the project ’Can Public Spending Stimulate the Local Market?’ led by Jan Stuhler and Ines Helm
 
@@ -49,9 +49,9 @@ __Mathematics, Econometrics Tutor__, Self-employed, Madrid
 __MPhil in Economics, University of Oxford, UK__
 
 `2015 - 2017`
-__Degree in Mathematics (54 ECTS), Spanish Distance Learning University, Spain__
+__Degree in Mathematics, Spanish Distance Learning University, Spain__
 
-- Focus on Calculus, Linear Algebra and Probability
+- 54 ECTS. Focus on Calculus, Linear Algebra and Probability
 
 `2011-2016`
 __Degree in Economics, University Carlos III of Madrid (UC3M), Spain__
