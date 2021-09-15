@@ -2,62 +2,91 @@
 layout: cv
 title: Juan Antonio Montero de Espinosa's CV
 ---
-# Juan Antonio Montero de Espinosa Reina
-Econometrician, Data Scientist
+<!--Separate forename and surname-->
+
+<h1> Juan Antonio <strong>Montero de Espinosa Reina</strong></h1>
+Econometrician and Data Scientist
 
 <div id="webaddress">
   <a href="mailto: jmonteroers@gmail.com">jmonteroers@gmail.com</a>
   |
   <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn</a>
+  |
+  <a href="https://en.wikipedia.org/wiki/Oxford">Oxford, United Kingdom</a>
 </div>
 
 
 ## Currently
 
-Working remotely as Main Data Scientist for Px HealthCare
+Main Data Scientist at Px Healthcare Group Ltd.
 
 ### Specialised in
 
-Statistical modelling, software development, team work
+Statistical Modelling, Data Analytics and Software Development
 
 
-## Experience
+## Work Experience
 
+__Px Healthcare Group Ltd__, Data Scientist
 `12/2020 - Present`
-__Data Scientist__, Px Healthcare Group Ltd, London
+<br>
+`London, United Kingdom`
 
-- Lead and Design Data Science projects
-- Develop and maintain data-centred backend features, such as personalised user reports
-- GDPR-compliant pipeline to provide app data
-- Scripts to build data visualisations
-- Automate and build reports on web and app statistics
+<ul class="with_disc">
+  <li>Lead and Design Data Science projects</li>
+  <li>Develop and maintain data-centred backend features, such as personalised user reports</li>
+  <li>GDPR-compliant pipeline to provide app data</li>
+  <li>Scripts to build data visualisations</li>
+  <li>Automate and build reports on web and app statistics</li>
+</ul>
 
+
+__Bank of Spain__, Intern
 `9/2019`
-__Intern__, Bank of Spain, Spain
+<br>
+`Madrid, Spain`
 
 - Revision of methodology for the competitiveness section of the Annual Report on the Spanish Economy
 
+
+__University Carlos III of Madrid__, Research Assistant
 `7/2017 - 8/2017`
-__Research Assistant__, University Carlos III of Madrid, Spain
+<br>
+`Madrid, Spain`
 
-- Prepared data for the project ’Can Public Spending Stimulate the Local Market?’ led by Jan Stuhler and Ines Helm
+- Collect and clean data for the project ’Can Public Spending Stimulate the Local Market?’, led by Jan Stuhler and Ines Helm
 
-`2016-2017`
-__Mathematics, Econometrics Tutor__, Self-employed, Madrid
+
+__Mathematics and Econometrics Tutor__
+`2016 - 2017`
+<br>
+`Madrid, Spain`
+
+- Prepare students at school, undergraduate, and graduate level
 
 
 ## Education
 
+__University of Oxford__, MPhil in Economics
 `2017 - 2019`
-__MPhil in Economics, University of Oxford, UK__
+<br>
+`Oxford, United Kingdom`
 
+- with a focus on Econometrics and Applied Economics
+
+
+__Spanish Distance Learning University__, Degree in Mathematics
 `2015 - 2017`
-__Degree in Mathematics, Spanish Distance Learning University, Spain__
+<br>
+`Madrid, Spain`
 
-- 54 ECTS. Focus on Calculus, Linear Algebra and Probability
+- with a focus on Calculus, Linear Algebra and Probability (54 ECTS)
 
-`2011-2016`
-__Degree in Economics, University Carlos III of Madrid (UC3M), Spain__
+
+__University Carlos III of Madrid__, Degree in Economics
+`2011 - 2016`
+<br>
+`Madrid, Spain`
 
 - Minor in Computer Science (36 ECTS)
 
@@ -75,28 +104,43 @@ Third Place, District Round, International Mathematical Olympiad (independent pr
 
 ## Languages
 
-- `First Language` &nbsp; Spanish
-- `Proficient` &nbsp; English
+- `Proficient` &nbsp; Spanish, English
 - `Basic` &nbsp; German, French
 
-## Software skills
+## Software Skills
 
 - `Advanced` &nbsp; Python 3, SQL, Shell, Git, Markdown
 - `Intermediate` &nbsp; Node (React), Docker, R, LaTeX, Web Design, STATA
 
+
 ## Courses
 
+__Foundations for Big Data Analysis with SQL__
 `2021`
-Cloudera, Coursera, Foundations for Big Data Analysis with SQL
+- Cloudera, Coursera
 
+__Deep Learning Specialisation__, 2 courses
 `2021`
-DeepLearning.AI, Coursera, Deep Learning Specialisation (2/4)
+- DeepLearning.AI, Coursera
 
+__Applied Data Science with Python__
 `2020`
-University of Michigan, Coursera, Applied Data Science with Python
+- University of Michigan, Coursera
 
+__Data Science: Foundations using R__, 3 courses
 `2020`
-John Hopkins University, Coursera, Data Science: Foundations using R (3/5)
+- John Hopkins University, Coursera
 
+__Basics of Stock and Financial Markets__
 `2016`
-Bolsas y Mercados Españoles, Basics of Stock and Financial Markets
+- Bolsas y Mercados Españoles
+
+## General Skills
+
+- Accountability
+- Problem Solving
+- Teamwork
+- Strategic Thinking
+- Adaptability
+- Public Speaking
+- Agile Methodologies
