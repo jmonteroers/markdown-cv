@@ -8,7 +8,7 @@ Econometrician, Data Scientist
 <div id="webaddress">
   <a href="mailto: jmonteroers@gmail.com">jmonteroers@gmail.com</a>
   |
-  <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn Page</a>
+  <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn</a>
 </div>
 
 
@@ -26,18 +26,21 @@ Statistical modelling, software development, team work
 `12/2020 - Present`
 __Data Scientist__, Px Healthcare Group Ltd, London
 
-- Developed and maintained backend features, such as personalised user reports
-- GDPR-compliant pipeline to provide analytics data
-- Automated reports on web and app statistics
+- Lead and Design Data Science projects
+- Develop and maintain data-centred backend features, such as personalised user reports
+- GDPR-compliant pipeline to provide app data
+- Scripts to build data visualisations
+- Automate and build reports on web and app statistics
 
 `9/2019`
 __Intern__, Bank of Spain, Spain
 
-- Revision of methodology to estimate margins and mark-ups for the competitiveness section of the Annual Report on the Spanish Economy.
+- Revision of methodology for the competitiveness section of the Annual Report on the Spanish Economy
 
 `7/2017 - 8/2017`
 __Research Assistant__, University Carlos III of Madrid, Spain
-Prepared data for the project ’Can Public Spending Stimulate the Local Market?’ led by Jan Stuhler and Ines Helm
+
+- Prepared data for the project ’Can Public Spending Stimulate the Local Market?’ led by Jan Stuhler and Ines Helm
 
 `2016-2017`
 __Mathematics, Econometrics Tutor__, Self-employed, Madrid
@@ -69,3 +72,31 @@ Community of Madrid Excellence Scholarship
 
 `2010`
 Third Place, District Round, International Mathematical Olympiad (independent preparation)
+
+## Languages
+
+- `First Language` &nbsp; Spanish
+- `Proficient` &nbsp; English
+- `Basic` &nbsp; German, French
+
+## Software skills
+
+- `Advanced` &nbsp; Python 3, SQL, Shell, Git, Markdown
+- `Intermediate` &nbsp; Node (React), Docker, R, LaTeX, Web Design, STATA
+
+## Courses
+
+`2021`
+Cloudera, Coursera, Foundations for Big Data Analysis with SQL
+
+`2021`
+DeepLearning.AI, Coursera, Deep Learning Specialisation (2/4)
+
+`2020`
+University of Michigan, Coursera, Applied Data Science with Python
+
+`2020`
+John Hopkins University, Coursera, Data Science: Foundations using R (3/5)
+
+`2016`
+Bolsas y Mercados Españoles, Basics of Stock and Financial Markets
