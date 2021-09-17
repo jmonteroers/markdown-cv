@@ -5,14 +5,16 @@ title: Juan Antonio Montero de Espinosa's CV
 <!--Separate forename and surname-->
 
 <h1> Juan Antonio <strong>Montero de Espinosa Reina</strong></h1>
-Econometrician and Data Scientist
+Econometrician & Data Scientist
 
 <div id="webaddress">
   <a href="mailto: jmonteroers@gmail.com">jmonteroers@gmail.com</a>
   |
   <a href="https://www.linkedin.com/in/juan-antonio-montero-de-espinosa-reina-68803391/">LinkedIn</a>
   |
-  <a href="https://en.wikipedia.org/wiki/Oxford">Oxford, United Kingdom</a>
+  <a href="https://github.com/jmonteroers">GitHub</a>
+  |
+  <a href="https://goo.gl/maps/UYUREBHxjMvo5Z5w8">Oxford, United Kingdom</a>
 </div>
 
 
@@ -20,7 +22,7 @@ Econometrician and Data Scientist
 
 Main Data Scientist at Px Healthcare Group Ltd.
 
-### Specialised in
+### Specialisation
 
 Statistical Modelling, Data Analytics and Software Development
 
@@ -62,7 +64,7 @@ __Mathematics and Econometrics Tutor__
 <br>
 `Madrid, Spain`
 
-- Prepare students at school, undergraduate, and graduate level
+- Prepare students for school, undergraduate, and public-service access exams (oposiciones)
 
 
 ## Education
@@ -113,34 +115,32 @@ Third Place, District Round, International Mathematical Olympiad (independent pr
 - `Intermediate` &nbsp; Node (React), Docker, R, LaTeX, Web Design, STATA
 
 
-## Courses
+## Further Education
 
 __Foundations for Big Data Analysis with SQL__
 `2021`
-- Cloudera, Coursera
+- [Cloudera, Coursera](https://coursera.org/share/28c069eb9afc6452d85847ccc2531bc0)
 
 __Deep Learning Specialisation__, 2 courses
 `2021`
-- DeepLearning.AI, Coursera
+- [DeepLearning.AI, Coursera](https://www.coursera.org/specializations/deep-learning)
 
 __Applied Data Science with Python__
 `2020`
-- University of Michigan, Coursera
+- [University of Michigan, Coursera](https://coursera.org/share/f2853ac0282ec36f1aa11e0384191eb4)
 
 __Data Science: Foundations using R__, 3 courses
 `2020`
-- John Hopkins University, Coursera
+- [John Hopkins University, Coursera](https://www.coursera.org/specializations/data-science-foundations-r)
 
 __Basics of Stock and Financial Markets__
 `2016`
-- Bolsas y Mercados Españoles
+- [Bolsas y Mercados Españoles](https://www.bolsasymercados.es/ing/About-BME/What-is-BME)
 
 ## General Skills
 
-- Accountability
 - Problem Solving
 - Teamwork
 - Strategic Thinking
 - Adaptability
-- Public Speaking
 - Agile Methodologies
