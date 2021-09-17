@@ -33,6 +33,7 @@ ol, ul {
 }
 ul.with_disc {
 	list-style: disc;
+	list-style-position: inside;
 }
 blockquote, q {
 	quotes: none;
