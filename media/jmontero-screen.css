@@ -88,7 +88,6 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -186,11 +185,6 @@ strong {
 
 #address {
 	display: none;
-}
-
-.brmedium {
-    display: block;
-    margin-bottom: 1em;
 }
 
 /*
