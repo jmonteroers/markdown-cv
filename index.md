@@ -93,29 +93,7 @@ __University Carlos III of Madrid__, Degree in Economics
 - Minor in Computer Science (36 ECTS)
 
 
-## Awards
-
-`2017-2019`
-Bank of Spain Scholarship
-
-`2011`
-Community of Madrid Excellence Scholarship
-
-`2010`
-Third Place, District Round, International Mathematical Olympiad (independent preparation)
-
-## Languages
-
-- `Proficient` &nbsp; Spanish, English
-- `Basic` &nbsp; German, French
-
-## Software Skills
-
-- `Advanced` &nbsp; Python 3, SQL, Shell, Git, Markdown
-- `Intermediate` &nbsp; Node (React), Docker, R, LaTeX, Web Design, STATA
-
-
-## Further Education
+## Courses
 
 __Foundations for Big Data Analysis with SQL__
 `2021`
@@ -137,10 +115,35 @@ __Basics of Stock and Financial Markets__
 `2016`
 - [Bolsas y Mercados Españoles](https://www.bolsasymercados.es/ing/About-BME/What-is-BME)
 
-## General Skills
 
+## Awards
+
+`2017-2019`
+Bank of Spain Scholarship
+
+`2011`
+Community of Madrid Excellence Scholarship
+
+`2010`
+Third Place, District Round, International Mathematical Olympiad (independent preparation)
+
+## Skills
+
+### Languages
+
+- `Proficient` &nbsp; Spanish, English
+- `Basic` &nbsp; German, French
+
+
+### Computer & Data Science
+
+- `Advanced` &nbsp; Python 3 (incl. numpy, pandas, matplotlib, sklearn...), SQL (Postgres, Impala...), Shell, Git, AWS Lambda, AWS EC2
+- `Intermediate` &nbsp; Node, Docker, R, DynamoDB, LaTeX, HTML, CSS, STATA
+
+
+### Interpersonal
 - Problem Solving
+- Critical Thinking
+- Strong Work Ethic
 - Teamwork
-- Strategic Thinking
 - Adaptability
-- Agile Methodologies
