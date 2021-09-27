@@ -40,6 +40,14 @@ Any change you want to make to your CV from then on would have to be done on the
 4. You can edit the `index.md` file and see the changes live in your browser.
 5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
+Alternatively, you can rely on `wkthtmltopdf` to print a PDF. Before that, you must build your site to `./_site` by using `jekyll build`. Then, cd into `./_site` and run:
+
+```
+wkhtmltopdf --enable-local-file-access index.html output.pdf
+```
+
+which will output `output.pdf` in your current directory. You can edit many options, such as the orientation (`-O`), or the margins. For more info, check `wkhtmltopdf -H`.
+
 ## Styling
 
 The included CSS will render your CV in two styles:
