@@ -35,11 +35,11 @@ __Px Healthcare Group Ltd__, Data Scientist
 `London, United Kingdom`
 
 <ul class="with_disc">
-  <li>Lead and Design Data Science projects</li>
-  <li>Develop and maintain data-centred backend features, such as personalised user reports</li>
-  <li>GDPR-compliant pipeline to provide app data</li>
-  <li>Scripts to build data visualisations</li>
-  <li>Automate and build reports on web and app statistics</li>
+  <li>Led and Designed Data Science projects</li>
+  <li>Developed and maintained data-centred backend features, such as personalised user reports</li>
+  <li>Created GDPR-compliant pipeline to provide app data</li>
+  <li>Built scripts for data visualisations</li>
+  <li>Automated and built reports on web and app statistics</li>
 </ul>
 
 
@@ -48,7 +48,7 @@ __Bank of Spain__, Intern
 <br>
 `Madrid, Spain`
 
-- Revision of methodology for the competitiveness section of the Annual Report on the Spanish Economy
+- Revised the methodology for the competitiveness section of the Annual Report on the Spanish Economy
 
 
 __University Carlos III of Madrid__, Research Assistant
@@ -56,7 +56,7 @@ __University Carlos III of Madrid__, Research Assistant
 <br>
 `Madrid, Spain`
 
-- Collect and clean data for the project ’Can Public Spending Stimulate the Local Market?’, led by Jan Stuhler and Ines Helm
+- Collected and cleaned data for the project ’Can Public Spending Stimulate the Local Market?’, led by Jan Stuhler and Ines Helm
 
 
 __Mathematics and Econometrics Tutor__
@@ -64,7 +64,7 @@ __Mathematics and Econometrics Tutor__
 <br>
 `Madrid, Spain`
 
-- Prepare students for school, undergraduate, and public-service access exams (oposiciones)
+- Prepared students for school, undergraduate, and public-service access exams (oposiciones)
 
 
 ## Education
