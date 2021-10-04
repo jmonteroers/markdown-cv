@@ -137,8 +137,9 @@ Third Place, District Round, International Mathematical Olympiad (independent pr
 
 ### Computer & Data Science
 
-- `Advanced` &nbsp; Python 3 (incl. numpy, pandas, matplotlib, sklearn...), SQL (Postgres, Impala...), Shell, Git, AWS Lambda, AWS EC2
-- `Intermediate` &nbsp; Node, Docker, R, DynamoDB, LaTeX, HTML, CSS, STATA
+- `Advanced` &nbsp; Python 3 (incl. Data Science toolkit), SQL (Postgres, Impala...), Shell, Git, AWS Lambda, AWS EC2
+- `Intermediate` &nbsp;  Docker, R,  LaTeX,  STATA, Matlab
+- `Basic` &nbsp; JavaScript/Node, AWS DynamoDB, HTML, CSS
 
 
 ### Interpersonal
