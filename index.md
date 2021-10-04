@@ -20,7 +20,7 @@ Econometrician & Data Scientist
 
 ## Currently
 
-Main Data Scientist at Px Healthcare Group Ltd.
+Main Data Scientist at Px HealthCare
 
 ### Specialisation
 
@@ -29,17 +29,17 @@ Statistical Modelling, Data Analytics and Software Development
 
 ## Work Experience
 
-__Px Healthcare Group Ltd__, Data Scientist
+__Px HealthCare__, Data Scientist
 `12/2020 - Present`
 <br>
 `London, United Kingdom`
 
 <ul class="with_disc">
-  <li>Led and Designed Data Science projects</li>
+  <li>Led and designed Data Science projects for the OWise mobile app</li>
   <li>Developed and maintained data-centred backend features, such as personalised user reports</li>
-  <li>Created GDPR-compliant pipeline to provide app data</li>
-  <li>Built scripts for data visualisations</li>
-  <li>Automated and built reports on web and app statistics</li>
+  <li>Created GDPR-compliant pipeline to provide user data insights</li>
+  <li>Built Python scripts for user data visualisations</li>
+  <li>Automated and built reports on web and app-based user statistics</li>
 </ul>
 
 
@@ -74,7 +74,7 @@ __University of Oxford__, MPhil in Economics
 <br>
 `Oxford, United Kingdom`
 
-- with a focus on Econometrics and Applied Economics
+- With a focus on Econometrics and Applied Economics
 
 
 __Spanish Distance Learning University__, Degree in Mathematics
@@ -82,7 +82,7 @@ __Spanish Distance Learning University__, Degree in Mathematics
 <br>
 `Madrid, Spain`
 
-- with a focus on Calculus, Linear Algebra and Probability (54 ECTS)
+- With a focus on Calculus, Linear Algebra and Probability (54 ECTS)
 
 
 __University Carlos III of Madrid__, Degree in Economics
