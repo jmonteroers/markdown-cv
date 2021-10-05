@@ -18,11 +18,7 @@ Econometrician & Data Scientist
 </div>
 
 
-## Currently
-
-Main Data Scientist at Px HealthCare
-
-### Specialisation
+## Specialisation
 
 Statistical Modelling, Data Analytics and Software Development
 
@@ -30,7 +26,7 @@ Statistical Modelling, Data Analytics and Software Development
 ## Work Experience
 
 __Px HealthCare__, Data Scientist
-`12/2020 - Present`
+`12/2020 - 9/2021`
 <br>
 `London, United Kingdom`
 
