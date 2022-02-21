@@ -25,6 +25,18 @@ Statistical Modelling, Data Analytics and Software Development
 
 ## Work Experience
 
+__DHSC__, Senior Demand and Modelling Analyst
+`10/2021 - Present`
+<br>
+`London, United Kingdom`
+
+<ul class="with_disc">
+  <li>Leading a team of modelling analysts that study policy responses</li>
+  <li>Contributed to design a website-based measure of additional PCR tests needed during Omicron wave</li>
+  <li>Designed and implemented a transport model in Python to estimate logistic requirements</li>
+</ul>
+
+
 __Px HealthCare__, Data Scientist
 `12/2020 - 9/2021`
 <br>
