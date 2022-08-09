@@ -43,7 +43,7 @@ __Oxbridge Academic Programs__, Data Scientist Tutor
 `Cambridge, United Kingdom`
 
 <ul class="with_disc">
-  <li>Designed a syllabus to introduce Data Science to students <br> from grade 10 to 12</li>
+  <li>Designed a syllabus to introduce Data Science to students <br> from grades 10 to 12</li>
   <li>Introduced basic concepts of Data Science, Maths and Computing with interactive exercises</li>
 </ul>
 
