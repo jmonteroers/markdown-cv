@@ -5,7 +5,7 @@ title: Juan Antonio Montero de Espinosa's CV
 <!--Separate forename and surname-->
 
 <h1> Juan Antonio <strong>Montero de Espinosa Reina</strong></h1>
-Econometrician & Data Scientist
+Data Scientist & Economist
 
 <div id="webaddress">
   <a href="mailto: jmonteroers@gmail.com">jmonteroers@gmail.com</a>
@@ -31,14 +31,25 @@ __DHSC__, Senior Demand and Modelling Analyst
 `London, United Kingdom`
 
 <ul class="with_disc">
-  <li>Leading a team of modelling analysts that study policy responses</li>
-  <li>Contributed to design a website-based measure of additional PCR tests needed during Omicron wave</li>
-  <li>Designed and implemented a transport model in Python to estimate logistic requirements</li>
+  <li>Designing and implementing better practices in Azure <br> pipeline that extracts  LFD dispatches from various sources</li>
+  <li>Designed currently used long-term PCR demand scenarios, and support transition toward recurring forecasts</li>
+  <li>Led a team that studied the effect of changes in policy on covid testing demand (e.g. reversal of confirmatory PCR)</li>
+  <li>Contributed to the design of a website-based measure of additional PCR tests needed during Omicron wave</li>
+</ul>
+
+__Oxbridge Academic Programs__, Data Scientist Tutor
+`07/2022 - 08/2022 (two weeks)`
+<br>
+`Cambridge, United Kingdom`
+
+<ul class="with_disc">
+  <li>Designed a syllabus to introduce Data Science to students <br> from grade 10 to 12</li>
+  <li>Introduced basic concepts of Data Science, Maths and Computing with interactive exercises</li>
 </ul>
 
 
 __Px HealthCare__, Data Scientist
-`12/2020 - 9/2021`
+`12/2020 - 09/2021`
 <br>
 `London, United Kingdom`
 
@@ -52,7 +63,7 @@ __Px HealthCare__, Data Scientist
 
 
 __Bank of Spain__, Intern
-`9/2019`
+`09/2019`
 <br>
 `Madrid, Spain`
 
@@ -60,7 +71,7 @@ __Bank of Spain__, Intern
 
 
 __University Carlos III of Madrid__, Research Assistant
-`7/2017 - 8/2017`
+`07/2017 - 08/2017`
 <br>
 `Madrid, Spain`
 
