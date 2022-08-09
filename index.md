@@ -96,12 +96,12 @@ __University of Oxford__, MPhil in Economics
 - With a focus on Econometrics and Applied Economics
 
 
-__Spanish Distance Learning University__, Degree in Mathematics
+__Spanish Distance Learning University (54 ECTS only)__, Degree in Mathematics
 `2015 - 2017`
 <br>
 `Madrid, Spain`
 
-- With a focus on Calculus, Linear Algebra and Probability (54 ECTS)
+- With a focus on Calculus, Linear Algebra and Probability
 
 
 __University Carlos III of Madrid__, Degree in Economics
