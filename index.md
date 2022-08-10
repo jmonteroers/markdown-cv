@@ -31,8 +31,9 @@ __DHSC__, Senior Demand and Modelling Analyst
 `London, United Kingdom`
 
 <ul class="with_disc">
-  <li>Designing and implementing better practices in Azure <br> pipeline that extracts  LFD dispatches from various sources</li>
+  <li>Designing and implementing better practices in Azure pipeline that extracts  LFD dispatches from various sources</li>
   <li>Designed currently used long-term PCR demand scenarios, and support transition toward recurring forecasts</li>
+  <li>Provided stock analysis fundamental to prepare PCR purchase for a Covid VoC eventuality</li>
   <li>Led a team that studied the effect of changes in policy on covid testing demand mainly relying on BI tools</li>
   <li>Contributed to the design of a website-based measure of additional PCR tests needed during Omicron wave</li>
 </ul>
