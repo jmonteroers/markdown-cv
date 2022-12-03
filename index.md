@@ -2,6 +2,7 @@
 layout: cv
 title: Juan Antonio Montero de Espinosa's CV
 ---
+
 <!--Separate forename and surname-->
 
 <h1> Juan Antonio <strong>Montero de Espinosa Reina</strong></h1>
@@ -17,40 +18,37 @@ Data Scientist & Economist
   <a href="https://goo.gl/maps/UYUREBHxjMvo5Z5w8">Oxford, United Kingdom</a>
 </div>
 
-
 ## Specialisation
 
 Statistical Modelling, Data Analytics and Software Development
 
-
 ## Work Experience
 
-__DHSC__, Senior Demand and Modelling Analyst
-`10/2021 - Present`
+**DHSC**, Senior Demand and Modelling Analyst
+`10/2021 - 11/2022`
 <br>
 `London, United Kingdom`
 
 <ul class="with_disc">
-  <li>Designing and implementing better practices in Azure pipeline that extracts  LFD dispatches from various sources</li>
-  <li>Building Power BI reports to increase accessibility of curated data across the organisation</li>
-  <li>Provided inventory analysis essential to prepare for a Covid VoC eventuality</li>
-  <li>Led a team that studied the effect of changes in policy on covid testing demand mainly relying on BI tools</li>
   <li>Contributed to the design of a website-based measure of additional PCR tests needed during Omicron wave</li>
+  <li>Maintained Azure data pipeline that extracted  LFD dispatches from various sources</li>
+  <li>Led a team that studied the effect of changes in policy on covid testing demand</li>
+  <li>Built Power BI reports to increase accessibility of curated data across the organisation</li>
+  <li>Provided inventory analysis essential to prepare for a Covid VoC eventuality</li>
 </ul>
 
-__Oxbridge Academic Programs__, Data Scientist Tutor
+**Oxbridge Academic Programs**, Data Scientist Tutor
 `07/2022 - 08/2022 (two weeks)`
 <br>
 `Cambridge, United Kingdom`
 
 <ul class="with_disc">
-  <li>Built a Data Science syllabus for students from grades 10 to 12</li>
+  <li>Built a Data Science syllabus for students from US grades 10 to 12</li>
   <li>Introduced basic concepts of Data Science, Maths and Computing with interactive exercises</li>
   <li>Students acquired knowledge of Data Science tools used in professional environments, such as seaborn or Power BI</li>
 </ul>
 
-
-__Px HealthCare__, Data Scientist
+**Px HealthCare**, Data Scientist
 `12/2020 - 09/2021`
 <br>
 `London, United Kingdom`
@@ -63,79 +61,76 @@ __Px HealthCare__, Data Scientist
   <li>Automated and built reports on web and app-based user statistics</li>
 </ul>
 
-
-__Bank of Spain__, Intern
+**Bank of Spain**, Intern
 `09/2019`
 <br>
 `Madrid, Spain`
 
 - Revised the methodology for the competitiveness section of the Annual Report on the Spanish Economy
 
-
-__University Carlos III of Madrid__, Research Assistant
+**University Carlos III of Madrid**, Research Assistant
 `07/2017 - 08/2017`
 <br>
 `Madrid, Spain`
 
 - Collected and cleaned data for the project ’Can Public Spending Stimulate the Local Market?’, led by Jan Stuhler and Ines Helm
 
-
-__Mathematics and Econometrics Tutor__
+**Mathematics and Econometrics Tutor**
 `2016 - 2017`
 <br>
 `Madrid, Spain`
 
 - Prepared students for school, undergraduate, and public-service access exams (oposiciones)
 
-
 ## Education
 
-__University of Oxford__, MPhil in Economics
+**University of Oxford**, MPhil in Economics
 `2017 - 2019`
 <br>
 `Oxford, United Kingdom`
 
 - With a focus on Econometrics and Applied Economics
 
-
-__Spanish Distance Learning University (54 ECTS only)__, Degree in Mathematics
+**Spanish Distance Learning University (54 ECTS only)**, Degree in Mathematics
 `2015 - 2017`
 <br>
 `Madrid, Spain`
 
 - With a focus on Calculus, Linear Algebra and Probability
 
-
-__University Carlos III of Madrid__, Degree in Economics
+**University Carlos III of Madrid**, Degree in Economics
 `2011 - 2016`
 <br>
 `Madrid, Spain`
 
 - Minor in Computer Science (36 ECTS)
 
-
 ## Courses
 
-__Foundations for Big Data Analysis with SQL__
+**Foundations for Big Data Analysis with SQL**
 `2021`
+
 - [Cloudera, Coursera](https://coursera.org/share/28c069eb9afc6452d85847ccc2531bc0)
 
-__Deep Learning Specialisation__, 2 courses
+**Deep Learning Specialisation**, 2 courses
 `2021`
+
 - [DeepLearning.AI, Coursera](https://www.coursera.org/specializations/deep-learning)
 
-__Applied Data Science with Python__
+**Applied Data Science with Python**
 `2020`
+
 - [University of Michigan, Coursera](https://coursera.org/share/f2853ac0282ec36f1aa11e0384191eb4)
 
-__Data Science: Foundations using R__, 3 courses
+**Data Science: Foundations using R**, 3 courses
 `2020`
+
 - [John Hopkins University, Coursera](https://www.coursera.org/specializations/data-science-foundations-r)
 
-__Basics of Stock and Financial Markets__
+**Basics of Stock and Financial Markets**
 `2016`
-- [Bolsas y Mercados Españoles](https://www.bolsasymercados.es/ing/About-BME/What-is-BME)
 
+- [Bolsas y Mercados Españoles](https://www.bolsasymercados.es/ing/About-BME/What-is-BME)
 
 ## Awards
 
@@ -155,14 +150,13 @@ Third Place, District Round, International Mathematical Olympiad (independent pr
 - `Proficient` &nbsp; Spanish, English
 - `Basic` &nbsp; German, French
 
-
 ### Computer & Data Science
 
-- `Advanced` &nbsp; Python 3 (incl. Data Science toolkit, Django), SQL, Shell, Git, AWS Lambda, AWS EC2
-- `Intermediate` &nbsp;  Javascript/Node, Azure, Docker, R, LaTeX, STATA, HTML, CSS
-
+- `Advanced` &nbsp; Python 3 (incl. Data Science toolkit), SQL, Git, AWS (Lambda, E2), Azure (Databricks, Data Factory), R
+- `Intermediate` &nbsp; Shell, Javascript/Node, Docker, LaTeX, HTML, CSS
 
 ### Interpersonal
+
 - Problem Solving
 - Critical Thinking
 - Strong Work Ethic
