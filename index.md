@@ -33,6 +33,7 @@ Statistical Modelling, Data Analytics and Software Development
   <li>Contributed to the design of a website-based measure of additional PCR tests needed during Omicron wave</li>
   <li>Maintained Azure data pipeline that extracted  LFD dispatches from various sources</li>
   <li>Led a team that studied the effect of changes in policy on covid testing demand</li>
+  <li>Designed and implemented a transport model in Python to estimate logistic requirements</li>
   <li>Built Power BI reports to increase accessibility of curated data across the organisation</li>
   <li>Provided inventory analysis essential to prepare for a Covid VoC eventuality</li>
 </ul>
