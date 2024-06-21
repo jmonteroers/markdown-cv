@@ -20,9 +20,20 @@ Data Scientist & Economist
 
 ## Specialisation
 
-Statistical Modelling, Data Analytics and Software Development
+Credit Scoring, Statistical Modelling, and Data Analytics
 
 ## Work Experience
+
+**Oxford Summer Courses**, Economics Tutor
+`07/2023 - 08/2023`
+<br>
+`Oxford, United Kingdom`
+
+<ul class="with_disc">
+  <li>Built an Economics syllabus for age groups 13-15 and 16-17</li>
+  <li>Designed games to approach complex concepts like the circular flow of income</li>
+  <li>Provided support and guidance to students on their academic careers</li>
+</ul>
 
 **DHSC**, Senior Demand and Modelling Analyst
 `10/2021 - 11/2022`
@@ -39,7 +50,7 @@ Statistical Modelling, Data Analytics and Software Development
 </ul>
 
 **Oxbridge Academic Programs**, Data Scientist Tutor
-`07/2022 - 08/2022 (two weeks)`
+`07/2022 - 08/2022`
 <br>
 `Cambridge, United Kingdom`
 
@@ -67,7 +78,7 @@ Statistical Modelling, Data Analytics and Software Development
 <br>
 `Madrid, Spain`
 
-- Revised the methodology for the competitiveness section of the Annual Report on the Spanish Economy
+- Reviewed a methodology for the competitiveness section of the Annual Report on the Spanish Economy
 
 **University Carlos III of Madrid**, Research Assistant
 `07/2017 - 08/2017`
@@ -84,6 +95,13 @@ Statistical Modelling, Data Analytics and Software Development
 - Prepared students for school, undergraduate, and public-service access exams (oposiciones)
 
 ## Education
+
+**University Carlos III of Madrid**, Msc in Statistics
+`2023 - 2024`
+<br>
+`Madrid, Spain`
+
+- In my thesis, I am currently designing credit scorecards based on ML techniques
 
 **University of Oxford**, MPhil in Economics
 `2017 - 2019`
@@ -106,7 +124,10 @@ Statistical Modelling, Data Analytics and Software Development
 
 - Minor in Computer Science (36 ECTS)
 
-## Courses
+## Courses & Certificates
+
+**Society of Actuaries, Exam P**
+`2023`
 
 **Foundations for Big Data Analysis with SQL**
 `2021`
@@ -117,16 +138,6 @@ Statistical Modelling, Data Analytics and Software Development
 `2021`
 
 - [DeepLearning.AI, Coursera](https://www.coursera.org/specializations/deep-learning)
-
-**Applied Data Science with Python**
-`2020`
-
-- [University of Michigan, Coursera](https://coursera.org/share/f2853ac0282ec36f1aa11e0384191eb4)
-
-**Data Science: Foundations using R**, 3 courses
-`2020`
-
-- [John Hopkins University, Coursera](https://www.coursera.org/specializations/data-science-foundations-r)
 
 **Basics of Stock and Financial Markets**
 `2016`
@@ -153,7 +164,7 @@ Third Place, District Round, International Mathematical Olympiad (independent pr
 
 ### Computer & Data Science
 
-- `Advanced` &nbsp; Python 3 (incl. Data Science toolkit), SQL, Git, AWS (Lambda, E2), Azure (Databricks, Data Factory), R
+- `Advanced` &nbsp; Python 3 (incl. Data Science toolkit), R, SQL, Git, AWS (Lambda, E2), Azure (Databricks, Data Factory)
 - `Intermediate` &nbsp; Shell, Javascript/Node, Docker, LaTeX, HTML, CSS
 
 ### Interpersonal
